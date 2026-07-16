@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Black-%23000000.svg?style=for-the-badge&logoColor=white" alt="Black" />
-  <img src="https://img.shields.io/badge/Purple-%236B46C1.svg?style=for-the-badge&logoColor=white" alt="Purple" />
-  <img src="https://img.shields.io/badge/Neon-%23A855F7.svg?style=for-the-badge&logoColor=white" alt="Neon Purple" />
-</div>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
